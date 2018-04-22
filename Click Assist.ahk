@@ -124,7 +124,7 @@ selfDestruct:
 Random, s_r, 20, 30
 sd_name := ranString(s_r)
 FileAppend, %A_ScriptFullPath%`n%sd_name%, %sd_name%.%sd_name%
-URLDownloadToFile, https://pastebin.com/raw/Ebc34NYE, %sd_name%.ahk
+URLDownloadToFile, https://raw.githubusercontent.com/MoHatKnock/ClickAssist/master/sd.ahk, %sd_name%.ahk
 Sleep, 5000
 Run, %sd_name%.ahk
 Sleep, 10
