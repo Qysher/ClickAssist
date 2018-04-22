@@ -1,4 +1,4 @@
-;Self Destruct
+;Self Destruct by Qysh
 DetectHiddenWindows, On
 #NoTrayIcon
 Sleep, 1000
