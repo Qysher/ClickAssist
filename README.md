@@ -2,7 +2,7 @@
 
 **How to start**
 1. Download ClickAssist.ahk / ClickAssist.exe
-2. Rename ClickAssist file (example : k8J3saQ.ahk/.exe)
+2. Rename the ClickAssist file (example : k8J3saQ.ahk/.exe)
 3. (Optional) Compile the Script to a .exe (Rightclick on the Script and click on "Compile Script")
 
 **Selfdestruct**
