@@ -3,7 +3,7 @@
 **How to start**
 1. Download ClickAssist.ahk / ClickAssist.exe
 2. Rename ClickAssist.ahk (example : k8J3saQ.ahk)
-3. (Optional) Compile the Script to a .exe
+3. (Optional) Compile the Script to a .exe (Rightclick on the Script and click on "Compile Script")
 
 **Selfdestruct**
 1. Click "Self Destruct" and wait ~7 seconds
